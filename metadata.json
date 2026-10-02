@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS MONSTER",
+  "description": "Private Digital Command Center and Personal Digital Operating System connecting local compute, browser workspaces, servers, businesses, security labs, media, and multi-agent AI orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
